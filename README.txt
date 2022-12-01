@@ -23,7 +23,13 @@ Group-6 Members:
 A]  Trello Workspace: [https://trello.com/w/softwareengineeringgrroup6]
 A.1]  Trello Board - 1:  Scrum Artifacts [https://trello.com/b/JXEQANVK/software-engineering-case-study]
 A.2]  Trello Board - 2:  Sprint Retrospective [https://trello.com/b/4FVZZi1J/sprint-retrospective-group-6]
+
+-----------------------------------------------------------------------------------------------------------
+
+
 :Folder structure:
+
+
 .
 ├── Actors and Use cases(description).pdf
 ├── Class Diagram.pdf
